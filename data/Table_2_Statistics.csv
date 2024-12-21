@@ -1,0 +1,61 @@
+Variable,Frequency,"Percentile (25th, 50th, 75th)",Data Completeness,Mean,Median,Mode,Standard Deviation,Variance,Skewness,Kurtosis
+Company,"Lenovo: 22.8%
+Dell: 22.4%
+HP: 20.9%
+Asus: 12.3%
+Acer: 8.1%
+MSI: 4.2%
+Toshiba: 3.7%
+Apple: 1.7%
+Samsung: 0.7%
+Razer: 0.6%
+Mediacom: 0.6%
+Microsoft: 0.5%
+Xiaomi: 0.3%
+Vero: 0.3%
+Chuwi: 0.2%
+Google: 0.2%
+LG: 0.2%
+Huawei: 0.2%
+Fujitsu: 0.2%",-,100.00%,-,-,Lenovo,-,-,-,-
+TypeName,"Notebook: 55.8%
+Gaming: 16.0%
+Ultrabook: 15.0%
+2 in 1 Convertible: 9.1%
+Workstation: 2.2%
+Netbook: 1.9%",-,100.00%,-,-,Notebook,-,-,-,-
+Inches,-,"14.0, 15.6, 15.6",100.00%,15.1,15.6,15.6,2.0,3.8,4.1,39.0
+Ram,-,"4.0, 8.0, 8.0",100.00%,8.5,8.0,8,5.6,31.0,3.6,25.7
+OpSys,"Windows 10: 82.2%
+No OS: 5.0%
+Linux: 4.8%
+Windows 7: 3.5%
+Chrome OS: 2.1%
+macOS: 1.0%
+Mac OS X: 0.6%
+Windows 10 S: 0.6%
+Android: 0.1%",-,100.00%,-,-,Windows 10,-,-,-,-
+Weight,-,"1.5, 2.0, 2.3",100.00%,2.1,2.0,2.2,0.8,0.7,3.1,21.3
+Price,-,"375.3, 612.8, 932.6",100.00%,704.6,612.8,688.6,438.9,192624.4,1.5,4.4
+Touchscreen,0: 85.4%<br>1: 14.6%,-,100.00%,0.1,-,0,-,-,-,-
+Ips,0: 71.7%<br>1: 28.3%,-,100.00%,0.3,-,0,-,-,-,-
+Screen_Width,-,"1600.0, 1920.0, 1920.0",100.00%,1894.2,1920.0,1920,494.8,244805.1,2.2,6.4
+Screen_Height,-,"900.0, 1080.0, 1080.0",100.00%,1070.5,1080.0,1080,284.7,81074.6,2.1,5.7
+ppi,-,"127.3, 141.2, 157.4",100.00%,146.0,141.2,141.21,43.5,1891.1,2.0,5.0
+Processor,"Intel Core i7: 40.4%
+Intel Core i5: 32.2%
+Other Intel Processor: 11.9%
+Intel Core i3: 10.6%
+AMD Processor: 5.0%",-,100.00%,-,-,Intel Core i7,-,-,-,-
+CPU_Speed,-,"2.0, 2.5, 2.7",100.00%,2.3,2.5,2.5,0.5,0.3,-0.8,-0.1
+SSD,-,"0.0, 256.0, 256.0",100.00%,182.8,256.0,256,185.6,34462.7,1.4,3.4
+HDD,-,"0.0, 0.0, 1024.0",100.00%,422.2,0.0,0,527.4,278139.9,0.9,-0.0
+Flash,-,"0.0, 0.0, 0.0",100.00%,4.6,0.0,0,30.6,936.5,11.0,146.6
+Hybrid,-,"0.0, 0.0, 0.0",100.00%,0.4,0.0,0,14.3,203.2,35.6,1270.0
+Gpu_Brand,"Intel: 55.4%
+Nvidia: 30.9%
+AMD: 13.7%
+ARM: 0.1%",-,100.00%,-,-,Intel,-,-,-,-
+OS,"Windows: 86.4%
+Other OS/No OS/Linux: 12.0%
+Mac: 1.7%",-,100.00%,-,-,Windows,-,-,-,-

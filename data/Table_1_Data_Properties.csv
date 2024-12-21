@@ -1,0 +1,21 @@
+Variable,Types of Data,Data Types,Measurement Level,Units,Range,Min Value,Top Value,Unique Values,Null Values,Outliers
+Company,Categorical,String,Nominal,-,-,-,-,19,0,No
+TypeName,Categorical,String,Nominal,-,-,-,-,6,0,No
+Inches,Numeric,float,Ratio,inch,10.1 - 35.6,10.1,35.6,24,0,"Yes, < 11.60 and > 18.00"
+Ram,Numeric,int,Ratio,Gb,1 - 64,1,64,10,0,"Yes, < -2.00 and > 14.00"
+OpSys,Categorical,String,Nominal,-,-,-,-,9,0,No
+Weight,Numeric,float,Ratio,kg,0.69 - 11.1,0.69,11.1,180,0,"Yes, < 0.27 and > 3.55"
+Price,Numeric,float,Ratio,USD,109.02 - 3821.47,109.02,3821.47,766,0,"Yes, < -460.62 and > 1768.55"
+Touchscreen,Numeric,int,Ratio,-,0 - 1,0,1,2,0,No
+Ips,Numeric,int,Ratio,-,0 - 1,0,1,2,0,No
+Screen_Width,Numeric,int,Ratio,pixel,1366 - 3840,1366,3840,13,0,"Yes, < 1120.00 and > 2400.00"
+Screen_Height,Numeric,int,Ratio,pixel,768 - 2160,768,2160,10,0,"Yes, < 630.00 and > 1350.00"
+ppi,Numeric,float,Ratio,ppi,44.02 - 352.47,44.02,352.47,47,0,"Yes, < 82.33 and > 202.36"
+Processor,Categorical,String,Nominal,-,-,-,-,5,0,No
+CPU_Speed,Numeric,float,Ratio,GHz,0.9 - 3.6,0.9,3.6,25,0,"Yes, < 0.95 and > 3.75"
+SSD,Numeric,int,Ratio,Gb,0 - 1024,0,1024,11,0,"Yes, < -384.00 and > 640.00"
+HDD,Numeric,int,Ratio,Gb,0 - 2048,0,2048,6,0,No
+Flash,Numeric,int,Ratio,Gb,0 - 512,0,512,7,0,No
+Hybrid,Numeric,int,Ratio,Gb,0 - 508,0,508,2,0,No
+Gpu_Brand,Categorical,String,Nominal,-,-,-,-,4,0,No
+OS,Categorical,String,Nominal,-,-,-,-,3,0,No
